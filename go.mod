@@ -1,4 +1,4 @@
-module ConsulDemo
+module ConsulDemoGo
 
 go 1.21.0
 
